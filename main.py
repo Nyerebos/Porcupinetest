@@ -5,7 +5,7 @@ import pyaudio
 porcu_access_key = "my api"
 porcu_keyword_path = "/Erebus_en_windows_v2_2_0.ppn"
 # Initialize the API key
-openai.api_key = "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"
+openai.api_key = "my api"
 
 # Initialize Porcupine wake word detection
 porcupine = None

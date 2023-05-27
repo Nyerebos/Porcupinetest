@@ -2,7 +2,7 @@ import openai
 import pvporcupine
 import pyaudio
 
-porcu_access_key = "NcU091960JebEMRvYXB6dc/plI3NJWMHPzP+YLq6DORnavbSPn3bIQ=="
+porcu_access_key = "my api"
 porcu_keyword_path = "/Erebus_en_windows_v2_2_0.ppn"
 # Initialize the API key
 openai.api_key = "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"
